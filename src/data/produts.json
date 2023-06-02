@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "nome": "Vichy Mineral 89",
+        "link": "https://www.epocacosmeticos.com.br/hidratante-facial-vichy-mineral-89/p",
+        "descricao": "vichy mineral 89 para peles oleosas e mistas"
+    },
+    {
+        "id": "2",
+        "nome": "Cerave",
+        "link": "https://www.epocacosmeticos.com.br/locao-facial-hidratante-cerave/p",
+        "descricao": "loção cerave para peles mistas e seas"
+    },
+    {
+        "id": "3",
+        "nome": "Serum de Peptideos",
+        "link": "https://www.principiaskin.com/serum-antissinais-10-peptideos-matryxil.html",
+        "descricao": "serum de peptideos para todas as peles"
+    },
+    {
+        "id": "4",
+        "nome": "Serum de Niacinamida",
+        "link": "https://www.principiaskin.com/kit-niacinamida-glicolico-1.html",
+        "descricao": "serum de niacinamida para peles oleosas"
+    },
+    {
+        "id": "5",
+        "nome": "Serum de Ácido Hialuronico",
+        "link": "https://www.principiaskin.com/serum-hidratante-2-acido-hialuronico-1-vitamina-b5.html",
+        "descricao": "serum de acido hialuronico para peles secas"
+    },
+    {
+        "id": "6",
+        "nome": "Cleanser",
+        "link": "https://www.epocacosmeticos.com.br/agua-micelar-bifasica-solucao-de-limpeza-facial-5-em-1-l-oreal-paris/p",
+        "descricao": "Cleanser para todas as peles"
+    }
+  ]
