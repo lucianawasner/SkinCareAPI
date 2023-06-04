@@ -6,7 +6,7 @@ server.get('/products',(req,res) => {
    return res.json(products)
 });
 
-server.listen(3000, () => {
+server.listen(port, () => {
 console.log('welcome to the glazed donut world')
 });
 
