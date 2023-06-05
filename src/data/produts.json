@@ -2,30 +2,35 @@
     "produtos":
     [
     {
-        "nome": "Vichy Mineral 89 -> ",
-        "link": "site epoca cosmeticos"
+        "nome": "Vichy Mineral 89: ",
+        "link": "site época cosméticos"
     },
     {
-        "nome": "Cerave-> ",
-        "link": "site epoca cosmeticos"
+        "nome": "Cerave: ",
+        "link": "site época cosméticos"
     },
     {
-        "nome": "Serum de Peptideos-> ",
+        "nome": "Serum de Peptideos: ",
         "link": "site principia skin"
     },
     {
-        "nome": "Serum de Niacinamida-> ",
+        "nome": "Serum de Niacinamida: ",
         "link": "site principia skin"
     },
     {
-        "nome": "Serum de Ácido Hialuronico-> ",
+        "nome": "Serum de Ácido Hialuronico: ",
         "link": "site principia skin"
     },
     {
-        "id": "6",
-        "nome": "Cleanser",
-        "link": "site epoca cosmeticos"
+        "nome": "Cleanser: ",
+        "link": "site época cosméticos"
+
+    },
+    {
+        "nome": "Protetor Solar: ",
+        "link": "site época cosméticos"
 
     }
   ]
+
 }
