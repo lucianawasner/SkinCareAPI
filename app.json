@@ -1,0 +1,6 @@
+{
+    "name": "skin-care-api-luciana",
+    "description": "trabalho da faculdade",
+    "repository": "https://github.com/lucianawasner/SkinCareAPI",
+    "image": "heroku/node"
+  }
