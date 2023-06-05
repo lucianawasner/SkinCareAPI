@@ -1,4 +1,6 @@
-[
+{
+    "produtos":
+    [
     {
         "id": "1",
         "nome": "Vichy Mineral 89",
@@ -36,3 +38,4 @@
         "descricao": "Cleanser para todas as peles"
     }
   ]
+}
